@@ -1,0 +1,10 @@
+markovify==0.9.3
+
+tensorflow==2.10.1   # Updated TensorFlow to be compatible with Python 3.9
+scikit-learn==0.24.1
+
+numpy==1.21.6        # Compatible with TensorFlow 2.10.1
+pandas==1.2.4
+
+keras==2.10.1        # Updated to match TensorFlow version
+Werkzeug==2.2.2      # Updated to match the latest stable release
