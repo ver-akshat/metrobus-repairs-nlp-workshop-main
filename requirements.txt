@@ -1,9 +1,9 @@
-Flask==2.0.3
-gunicorn==20.1.0
+Flask
+gunicorn
 
 tensorflow  # Updated TensorFlow for Python 3.9 compatibility
-scikit-learn==0.24.1
-numpy==1.21.6       # Use a version compatible with TensorFlow 2.10.1
-pandas==1.2.4
-protobuf==3.20.3    # Update to ensure compatibility with newer TensorFlow
-Werkzeug==2.2.2     # Updated to match the latest stable release
+scikit-learn
+numpy       # Use a version compatible with TensorFlow 2.10.1
+pandas
+protobuf    # Update to ensure compatibility with newer TensorFlow
+Werkzeug     # Updated to match the latest stable release
